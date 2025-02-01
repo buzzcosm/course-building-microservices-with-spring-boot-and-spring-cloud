@@ -2,4 +2,4 @@
 
 Exercises
 
-- Spring Boot Microservices Demo (Repository: [course-building-microservices-with-spring-boot-and-spring-cloud](https://github.com/buzzcosm/course-building-microservices-with-spring-boot-and-spring-cloud))
+- Spring Boot Microservices Demo (Repository: [udemy-course-1422480-springboot-microservices](https://github.com/buzzcosm/udemy-course-1422480-springboot-microservices))
